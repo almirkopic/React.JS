@@ -1,1 +1,1 @@
-![mouse] (./mousehover.jpg)
+![mousehover](./mousehover.jpg)
